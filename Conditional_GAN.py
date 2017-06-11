@@ -1,8 +1,8 @@
 '''
-   Generative Adversarial Networks toy example, using Theano and Lasagne
-   MNIST data is used for the experiments
+   Conditional Generative Adversarial Networks toy example, using Theano and Lasagne
+   MNIST data is used for this experiments
    Noise for the Generator is drawn from Normal Distribution
-   Code follows GAN's pseudocode paper of the original paper but with alternate Loss fucntions
+   Code follows Conditioanl GAN's original paper but with alternate Loss fucntions
 '''
 
 
